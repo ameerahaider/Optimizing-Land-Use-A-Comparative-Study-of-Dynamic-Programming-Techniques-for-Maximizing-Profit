@@ -10,19 +10,25 @@ The project includes four different implementations of the problem using differe
 
 # Prerequisites
 C++ compiler (e.g., g++)
+
 Git
 
 # Installation
 Clone the repository: git clone https://github.com/username/Optimizing-Land-Use.git
 
 # Compile the C++ files:
+
 g++ -o part1 part1.cpp
+
 g++ -o part2 part2.cpp
+
 g++ -o part3 part3.cpp
+
 g++ -o part4 part4.cpp
 
 # Usage
 Run the C++ files:
+
 ./part1
 
 ./part2
